@@ -13,6 +13,8 @@ My other projects:
 
 - 📫 How to reach me **maslanapiotr4@gmail.com**
 
+![Codewars](https://github.r2v.ch/codewars?user=AceOfSnakes60&stroke=COLOR)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piotr-maślanka-6317aa142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr-maślanka-6317aa142" height="30" width="40" /></a>
