@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter Maslanka</h1>
+<h1 align="center">Hi 👋, I'm Piotr Maslanka</h1>
 <h3 align="center">A junior java developer from Warsaw, Poland</h3>
 
 
