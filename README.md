@@ -8,6 +8,7 @@
 
 - My other projects:
   - Movie website: https://github.com/CodecoolGlobal/freestyle-mern-project-react-Szczygiel29
+  - Text adventure game: https://github.com/CodecoolGlobal/mighty-text-adventure-java-magdalenahuget
 
 - 📫 How to reach me **maslanapiotr4@gmail.com**
 
