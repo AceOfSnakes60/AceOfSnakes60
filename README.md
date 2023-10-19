@@ -4,12 +4,12 @@
 
 🔭 I’m currently working on:
 **Twitter clone**
-   - Frontend: https://github.com/CodecoolGlobal/epg-2-java-AceOfSnakes60
-   - Backend: https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-AceOfSnakes60
+   - Frontend: https://github.com/AceOfSnakes60/Twatter_Client
+   - Backend: https://github.com/AceOfSnakes60/Twatter_Server
 
 My other projects:
-  - **Movie website:** https://github.com/CodecoolGlobal/freestyle-mern-project-react-Szczygiel29
-  - **Text adventure game:** https://github.com/CodecoolGlobal/mighty-text-adventure-java-magdalenahuget
+  - **Movie website:** https://github.com/AceOfSnakes60/Movie_Search_Website
+  - **Text adventure game:** https://github.com/AceOfSnakes60/Text-Adventure
 
 - 📫 How to reach me **maslanapiotr4@gmail.com**
 
