@@ -2,14 +2,13 @@
 <h3 align="center">A junior java developer from Warsaw, Poland</h3>
 
 
-🔭 I’m currently working on:
+🔭 My projects:
+**Ai Article App:** https://github.com/AceOfSnakes60/ai-article-app
 **Twitter clone**
    - Frontend: https://github.com/AceOfSnakes60/Twatter_Client
    - Backend: https://github.com/AceOfSnakes60/Twatter_Server
-
-My other projects:
-  - **Movie website:** https://github.com/AceOfSnakes60/Movie_Search_Website
-  - **Text adventure game:** https://github.com/AceOfSnakes60/Text-Adventure
+**Movie website:** https://github.com/AceOfSnakes60/Movie_Search_Website
+**Text adventure game:** https://github.com/AceOfSnakes60/Text-Adventure
 
 - 📫 How to reach me **maslanapiotr4@gmail.com**
 
